@@ -1,0 +1,2 @@
+Financial Management & Reporting System
+This project uses Oracle SQL and MS Excel for financial operations.
